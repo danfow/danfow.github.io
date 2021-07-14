@@ -1,0 +1,50 @@
+body {
+    background-color:(167,11,11) ;
+    background-image: url('lightning.jpg'); 
+    background-size: 100% 100%; 
+    background-size: cover
+}
+
+p{
+    color: rgb(228, 11, 11);  
+    padding-top: 5px;
+    text-shadow: 2px 2px 5px black
+
+}
+
+h1 {
+    color: rgb(228, 11, 11); 
+    padding-top: 5px; text-shadow: 2px 2px 5px black;
+}
+h2{
+    color: rgb(228, 11, 11); 
+    padding-top: 5px; text-shadow: 2px 2px 5px black;
+
+}
+
+
+a:link {
+    color: rgb(0, 217, 255);
+    background-color: transparent;
+    text-decoration: none;
+    }
+
+a:visited {
+    color: rgb(255, 0, 0);
+    background-color: transparent;
+     text-decoration: none;
+    }
+
+ a:hover {
+    color: rgb(255, 238, 2);
+    background-color: transparent;
+    text-decoration: underline;
+    }
+
+ a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+    }
+
+
